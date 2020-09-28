@@ -1,2 +1,2 @@
 <?php include('../cookie-consent.php');  ?>
-<!-- <?php header('Location: https://www.linkedin.com/in/madura-perera/'); exit(); ?> -->
+<embed src="madura-perera-cv.pdf" type="application/pdf" height="100%" width="100%" class="responsive">
