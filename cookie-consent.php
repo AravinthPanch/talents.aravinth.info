@@ -15,7 +15,7 @@
 
 <!-- Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script type="text/plain" cookie-consent="strictly-necessary" async src="https://www.googletagmanager.com/gtag/js?id=UA-168585905-1"></script>
+<script type="text/plain" cookie-consent="strictly-necessary" async src="https://www.googletagmanager.com/gtag/js?id=UA-168585905-3"></script>
 <script type="text/plain" cookie-consent="strictly-necessary">
   window.dataLayer = window.dataLayer || [];
 
@@ -24,7 +24,7 @@
     }
     gtag('js', new Date());
 
-    gtag('config', 'UA-168585905-1');
+    gtag('config', 'UA-168585905-3');
   </script>
 <!-- end of Google Analytics-->
 
